@@ -11,8 +11,8 @@ At Howaito Dev, our mission is to create high-quality, scalable, and user-friend
 
 ## 🛠️ **Our Tech Stack**
 We work with a wide range of technologies, including but not limited to:
-- **Frontend**: React, Vue.js
-- **Backend**: Node.js, Laravel, Nest Js
+- **Frontend**: React, Vue.js, Nuxt Js, Next Js
+- **Backend**: Node.js, Laravel, Nest Js, Java
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 🤝 **Get Involved**
