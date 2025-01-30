@@ -25,5 +25,3 @@ We’re always looking for passionate individuals to join our journey! Whether y
 Thank you for visiting Howaito Dev! Let’s build something amazing together. 💻✨
 
 ---
-
-Feel free to customize this text to better fit your organization's goals and style!
